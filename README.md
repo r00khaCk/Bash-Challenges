@@ -1,4 +1,4 @@
-# ComparingNumbers
+# Bash Challenges 
 Question:
 Given two integers, X and Y, determine whether X > Y, X < Y or X = Y
 
